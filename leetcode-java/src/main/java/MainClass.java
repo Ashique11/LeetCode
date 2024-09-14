@@ -22,7 +22,9 @@ public class MainClass {
 //
 //        LengthOfLastWord length = new LengthOfLastWord();
 //        length.lengthOfLastWord("   fly me   to   the moon  ");
-//        
+//
+//        AddBinary addBinary = new AddBinary();
+//        addBinary.addBinary("1010","10");
 
     }
 }
