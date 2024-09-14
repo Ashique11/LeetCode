@@ -16,6 +16,10 @@ public class MainClass {
 //
 //        ValidParanthesis validParanthesis = new ValidParanthesis();
 //        validParanthesis.isValid("()[]{}");
-        
+
+//        IndexOfFirstOccurence indexOfFirstOccurence = new IndexOfFirstOccurence();
+//        indexOfFirstOccurence.strStr("sadbutsad","sad");
+//
+
     }
 }
