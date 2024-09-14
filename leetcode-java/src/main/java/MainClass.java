@@ -16,10 +16,13 @@ public class MainClass {
 //
 //        ValidParanthesis validParanthesis = new ValidParanthesis();
 //        validParanthesis.isValid("()[]{}");
-
+//
 //        IndexOfFirstOccurence indexOfFirstOccurence = new IndexOfFirstOccurence();
 //        indexOfFirstOccurence.strStr("sadbutsad","sad");
 //
+//        LengthOfLastWord length = new LengthOfLastWord();
+//        length.lengthOfLastWord("   fly me   to   the moon  ");
+//        
 
     }
 }
