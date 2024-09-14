@@ -29,5 +29,10 @@ public class MainClass {
 //        ValidPalindrome validPalindrome = new ValidPalindrome();
 //        validPalindrome.isPalindrome("A man, a plan, a canal: Panama");
 //
+//        ExcelNumbertoColumn excelNumbertoColumn = new ExcelNumbertoColumn();
+//        excelNumbertoColumn.convertToTitle(701);
+
+//        IsomorphicString isomorphicString = new IsomorphicString();
+//        isomorphicString.isIsomorphic("paper","title");
     }
 }
