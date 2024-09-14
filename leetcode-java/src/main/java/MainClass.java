@@ -25,6 +25,9 @@ public class MainClass {
 //
 //        AddBinary addBinary = new AddBinary();
 //        addBinary.addBinary("1010","10");
-
+//
+//        ValidPalindrome validPalindrome = new ValidPalindrome();
+//        validPalindrome.isPalindrome("A man, a plan, a canal: Panama");
+//
     }
 }
