@@ -13,6 +13,9 @@ public class MainClass {
 //
 //        LongestCommonPrefix longestCommonPrefix = new LongestCommonPrefix();
 //        longestCommonPrefix.longestCommonPrefix(new String[]{"dog","racecar","car"});
-
+//
+//        ValidParanthesis validParanthesis = new ValidParanthesis();
+//        validParanthesis.isValid("()[]{}");
+        
     }
 }
