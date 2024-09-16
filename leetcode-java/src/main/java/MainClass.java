@@ -3,7 +3,6 @@ public class MainClass {
         // uncomment to run the code you need
 //        MergeStringsAlternatively mergeStringsAlternatively = new MergeStringsAlternatively();
 //        String result = mergeStringsAlternatively.mergeAlternately("abc","pqr");
-//        System.out.println(result);
 
 //        GCDString gcdString = new GCDString();
 //        gcdString.gcdOfStrings("LEET", "CODE");
@@ -34,5 +33,12 @@ public class MainClass {
 
 //        IsomorphicString isomorphicString = new IsomorphicString();
 //        isomorphicString.isIsomorphic("paper","title");
+
+        LengthOfLongetSubstring length = new LengthOfLongetSubstring();
+        int len = length.lengthOfLongestSubstring("abcabcbb");
+
+//        ContiguosArraySum contiguosArraySum = new ContiguosArraySum();
+//        int sum =contiguosArraySum.maxSum(new int[]{4,5,2,3,1,2}, 2); //9
+        System.out.println(len);
     }
 }
