@@ -1,3 +1,5 @@
+package LeetCode75;
+
 /**
  * Problem : https://leetcode.com/problems/greatest-common-divisor-of-strings/description/
  * My submission : https://leetcode.com/problems/greatest-common-divisor-of-strings/submissions/1376264381/

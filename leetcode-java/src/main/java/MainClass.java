@@ -1,3 +1,5 @@
+import LeetCode75.KidsWithGreatestCandies;
+
 public class MainClass {
     public static void main(String[] args) {
         // uncomment to run the code you need
@@ -34,11 +36,21 @@ public class MainClass {
 //        IsomorphicString isomorphicString = new IsomorphicString();
 //        isomorphicString.isIsomorphic("paper","title");
 
-        LengthOfLongetSubstring length = new LengthOfLongetSubstring();
-        int len = length.lengthOfLongestSubstring("abcabcbb");
+//        LengthOfLongetSubstring length = new LengthOfLongetSubstring();
+//        int len = length.lengthOfLongestSubstring("abcabcbb");
 
 //        ContiguosArraySum contiguosArraySum = new ContiguosArraySum();
 //        int sum =contiguosArraySum.maxSum(new int[]{4,5,2,3,1,2}, 2); //9
-        System.out.println(len);
+
+//        Anagram anagram = new Anagram();
+//        anagram.isAnagram("aacc", "ccaa");
+
+//        ZigZagConversion zigZagConversion = new ZigZagConversion();
+//        zigZagConversion.convert("PAYPALISHIRING",3);
+
+//        Atoi atoi = new Atoi();
+//        int n = atoi.myAtoi("-2147483647");
+        KidsWithGreatestCandies kidsWithGreatestCandies = new KidsWithGreatestCandies();
+        kidsWithGreatestCandies.kidsWithCandies(new int[]{2,3,5,1,3},3);
     }
 }

@@ -1,3 +1,5 @@
+package LeetCode75;
+
 /**
  * Problem : https://leetcode.com/problems/merge-strings-alternately/description/
  * My submission : https://leetcode.com/problems/merge-strings-alternately/submissions/1376263358/
